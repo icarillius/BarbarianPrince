@@ -3,7 +3,7 @@ RowOne,EventType,EventText,ChoiceOne,ChoiceTwo,ChoiceThree,Reward,RewardItem,Cho
 2,Defend the Camp,As you wonder through the {TileName} you see a camp of {TileCulture} defending against a {Size} group of {EnemyCulture}. What do you choose to do?,Attack ,Defend,Run,3,None,5,3,1
 3,Butcher the Creature,As you enter the {TileName} you come across a hungry {TileCulture} family who are sitting with their pet {Creature}.,Butcher the Creature,Set the creature free,Leave them be,1,Meat,2,1,1
 4,Slay the Monster!,You see the {TileName}  being attacked by a {Size} {Creature}. Do you choose to help protect them?,Kill the Creature,Protect the innocent,Run Away,4,Meat,5,5,2
-5,Siege,"The {TileName} is under Siege by a {Size} army of {EnemyCulture}. The Siege looks as if it's lasted many days, do you choose to help the defenders?",Support the Defences ,Aid the Attackers,Run Away,10,None,20,20,2
+5,Siege the City,"The {TileName} is under Siege by a {Size} army of {EnemyCulture}. The Siege looks as if it's lasted many days, do you choose to help the defenders?",Support the Defences ,Aid the Attackers,Run Away,10,None,20,20,2
 6,Raid,You see a {Size} raiding party of {EnemyCulture} heading towards the {TileName}. What do you do?,Join the Raid,Defend the Location,Run Away,7,None,10,10,2
 7,Break,Break the {Item},Take the item,Break the Item,Leave the Item,0,{item},1,1,1
 8,Steal,"You see a house in the {TileName} inside is a {item}, what do you wish to do with it?",Take the item,Shut the door,Leave the Item,0,{item},5,5,1
